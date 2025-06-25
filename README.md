@@ -29,12 +29,7 @@ I just have the basics down right now.
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 https://github.com/user-attachments/assets/b5440260-4a43-4931-943c-c7164eb86c7a
-
 
 
 ## Notes
