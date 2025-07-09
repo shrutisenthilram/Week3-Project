@@ -1,8 +1,8 @@
-# Project 3 - Trivia
+# Project 4 - Trivia
 
 Submitted by: Shruti Senthilram
 
-Trivia is an app that presents questions to the users and tests their knowledge.
+Trivia is an app that ... [TODO] 
 
 Time spent: 2 hours spent in total
 
@@ -10,33 +10,38 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User can view the current question and 4 different answers
-- [x] User can view the next question after tapping an answer
-- [x] User can answer at least 3 different questions
+- [-] User can view and answer at least 5 trivia questions.
+- [-] App retrieves question data from the Open Trivia Database API.
+- [-] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [-] Users can see score after submitting all questions.
+- [-] True or False questions only have two options.
 
 
 The following **optional** features are implemented:
 
-- [x] User can use the vertical orientation of the app on any device
-- [x] User can track the question they are on and how many questions are left
-- [x] User can see how many questions they got correct after answering all questions
-- [x] User should be able to restart the game after they've finished answering all questions
+  
+- [ ] Allow the user to choose a specific category of questions.
+- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-I just have the basics down right now, and I hope to add everything else later.
 
 ## Video Walkthrough
 
-https://github.com/user-attachments/assets/b5440260-4a43-4931-943c-c7164eb86c7a
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+
+
+https://github.com/user-attachments/assets/e8fbbaeb-062b-4683-a60e-efe400f30722
+
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-It took me a while to understand every thing I needed to implement and how to implement it. I also had a lot of bugs that I had to get through, and fix to make everything run smoothly.
+I had a bit of a hard time understanding how to implement the API, and I think there still might be some issues with the app, but I think it went smoothly overall.
 
 ## License
 
